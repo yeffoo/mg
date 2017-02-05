@@ -1,1 +1,1 @@
-file.open("uart.lua","w")
+file.open("connect.lua","w")

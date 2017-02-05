@@ -1,3 +1,3 @@
 wifi.setmode(wifi.STATION)
-wifi.sta.config("SSID","HASLO")
+wifi.sta.config("Rutt","poiuytrewq")
 print(wifi.sta.getip())
